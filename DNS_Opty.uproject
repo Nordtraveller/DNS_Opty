@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DNS_Opty",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
